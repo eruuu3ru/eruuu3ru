@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm eru
 
-<!--
-**eruuu3ru/eruuu3ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building real products with modern AI.
 
-Here are some ideas to get you started:
+I specialize in turning ideas into polished, production-ready applications — combining strong software engineering with applied AI (Computer Vision & Multimodal systems).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Building
+- Intelligent systems that solve real problems
+- High-quality full-stack applications with modern AI capabilities
+
+### Tech I Work With
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+**Backend:** Node.js, FastAPI, PostgreSQL  
+**AI / ML:** PyTorch, Computer Vision, Multimodal Models  
+
+### Featured Work
+<!-- Pin your best repos below or link them here later -->
+
+I'm a builder. I care about clean code, strong product sense, and shipping things that actually work.
