@@ -2,7 +2,7 @@
 
 Full-stack developer focused on building real products with modern AI.
 
-I specialize in turning ideas into polished, production-ready applications — combining strong software engineering with applied AI (Computer Vision & Multimodal systems).
+I specialize in turning ideas into polished, production-ready applications, combining  software engineering with applied AI (Computer Vision & Multimodal systems).
 
 ### Currently Building
 - Intelligent systems that solve real problems
@@ -10,8 +10,8 @@ I specialize in turning ideas into polished, production-ready applications — c
 
 ### Tech I Work With
 **Frontend:** Next.js, React, TypeScript, Tailwind CSS  
-**Backend:** Node.js, FastAPI, PostgreSQL  
-**AI / ML:** PyTorch, Computer Vision, Multimodal Models  
+**Backend:** Node.js, FastAPI, PostgreSQL, Supabase 
+**AI / ML:** PyTorch, Computer Vision, Multimodal Models, YOLO  
 
 ### Featured Work
 <!-- Pin your best repos below or link them here later -->
